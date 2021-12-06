@@ -1,0 +1,19 @@
+{
+    "name": "Degen Ape Academy #3 DEV",
+    "symbol": "DAADEV",
+    "image": "2.png",
+    "properties": {
+    "files": [
+        {
+            "uri": "2.png",
+            "type": "image/png"
+        }
+    ],
+        "creators": [
+        {
+            "address": "6BuaUwtac1egRxbrLk3h7WxKHEmLrFZGpgx59FPyTpMp",
+            "share": 100
+        }
+    ]
+}
+}
